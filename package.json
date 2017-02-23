@@ -1,0 +1,8 @@
+{
+  "name": "runkit-test-external-dep",
+  "version": "1.0.0",
+  "main": "runkit-test-external-dep.js",
+  "repository": "git@github.com:rentzsch/runkit-test-external-dep.git",
+  "author": "rentzsch <jwr.git@redshed.net>",
+  "license": "MIT"
+}
